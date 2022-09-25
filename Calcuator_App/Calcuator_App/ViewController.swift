@@ -15,11 +15,11 @@ class ViewController: UIViewController {
         
 
         
-        // Student Name: Carlos Hernandez
-        // Student ID:
+        // Student Name: Carlos Hernandez Galvan
+        // Student ID: 301290263
         
-        // Student Name: Oscar
-        // Student ID:
+        // Student Name: Oscar Miralles Fernandez
+        // Student ID: 301250756
         
         // Student Name: Bahaa Al-juboori
         // Student ID: 3012869950
